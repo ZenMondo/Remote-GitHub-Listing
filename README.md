@@ -1,4 +1,4 @@
-Remote GitHub Listing
+# Remote GitHub Listing
 by L. Christopher Bird
 
 This php script will create a webpage with a listing of all the files in a GitHub Repository and create hyperlinks to each individual file.
